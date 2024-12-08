@@ -10,6 +10,4 @@ A React-based web application that allows students to view their results, check 
 - **Data Fetching**: Fetch results from a mock API or backend service.
 - **Error Handling**: User-friendly messages for errors during login or data retrieval.
 
-## Demo
 
-Provide a link to a live demo or include screenshots of the application (optional).
